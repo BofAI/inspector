@@ -477,3 +477,4 @@ These guidelines maintain clean parameter passing and proper separation of conce
 ## License
 
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
+
